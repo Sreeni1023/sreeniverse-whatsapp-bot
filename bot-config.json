@@ -1,0 +1,21 @@
+{
+  "sessionPath": "./auth_session",
+  "sessionBackupPath": "./auth_session_backup",
+  "messageDelay": {
+    "min": 2000,
+    "max": 5000
+  },
+  "typingDelay": {
+    "min": 1500,
+    "max": 3000
+  },
+  "dailyLimit": 200,
+  "hourlyLimit": 30,
+  "nightModeEnabled": true,
+  "instantReplyChance": 0.15,
+  "businessName": "Sreeniverse Technologies",
+  "ownerName": "D. Sreenivas",
+  "phone": "+91 9347488883",
+  "email": "dsreeniverse@gmail.com",
+  "website": "www.sreeniverse.com"
+}
